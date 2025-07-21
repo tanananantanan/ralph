@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap'); */
 
 body {
     background-color: goldenrod;
@@ -6,7 +6,7 @@ body {
 
 header {
     text-align: center;
-    background-color: rgb(16, 126, 199);
+    background-color: rgb(44, 39, 39);
     padding: 20px;
 }
 
@@ -14,7 +14,9 @@ header img {
     width: 300px;
     height: 350px;
     border: 20px solid orange;
-    border-radius: 50%;
+    border-radius: 30%;
+    border-style: dashed;
+    border-width: 15px;
 }
 
 header h1 {
